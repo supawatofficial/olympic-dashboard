@@ -5,4 +5,6 @@ As a new GitHub user, I'm still figuring out the best way to handle large files.
 Link:
 https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
 
+Please note that the data on Kaggle may have been updated since I created this dashboard. Therefore, the information displayed here might not reflect the most recent data.
+
 Thank you for looking at my first dashboard. I understand that there may be some errors or inaccuracies in the data. I'm grateful for your feedback as I continue to develop my Power BI skills.
